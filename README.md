@@ -27,7 +27,7 @@ SOLUTION : -
     
     <br>
     
-    ![](https://github.com/nainshree-raj/AbInBev-Employee-Seat-Booking-Application/blob/main/Screenshot%20(7).png)
+    ![](https://github.com/nainshree-raj/Seat-Booking-Portal/blob/main/Screenshot%20(23).png)
  
 2) Selecting a seat from the availability shown with the help of UI.
 

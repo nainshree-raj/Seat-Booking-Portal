@@ -1,5 +1,5 @@
 # Seat-Booking-Portal
-                                                         Employee Seat Booking Portal
+                                                   Employee Seat Booking Portal
 BACKGROUND :
 Employees are returning to the office as the government has lifted the WFH rules with
 the decrease in the number of Covid cases in India. Companies need to set up a system which would
@@ -41,7 +41,7 @@ SOLUTION : -
     
     <br>
     
-    ![](https://github.com/nainshree-raj/AbInBev-Employee-Seat-Booking-Application/blob/main/Screenshot%20(9).png)
+    ![](https://github.com/nainshree-raj/Seat-Booking-Portal/blob/main/Screenshot%20(25).png)
   
 3) Firebase Google 
 

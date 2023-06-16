@@ -2,14 +2,14 @@
                                                    Employee Seat Booking Portal
 BACKGROUND :
 Employees are returning to the office as the government has lifted the WFH rules with
-the decrease in the number of Covid cases in India. Companies need to set up a system which would
+the decrease in the number of COVID cases in India Companies need to set up a system that would
 help the employees successfully book a seat/desk in the office for any day in advance and allow the
-company to keep a track on the count of employees WFH and WFO.
+company to keep track of the count of employees (WFH and WFO).
 
 
 PROBLEM STATEMENT :
 To create a user-friendly tool accessible by all employees which would let them
-booka seat/desk in the office in advance for up to 5 working days.
+book a seat/desk in the office in advance for up to 5 working days.
 
 EXPECTATIONS :
 • A detailed technical architecture & feature list
@@ -20,7 +20,7 @@ SOLUTION : -
 
 1) Login/Registration Web page for the employee.
 
-    * Implemented using HTML, CSS, JAVA SCRIPT.
+    * Implemented using HTML, CSS, and JAVASCRIPT.
     * Features: Authenticating the Employee using the credentials (Phone Number, Email ID, Password, RTPCR Report).
     * Option to Choose & Upload RTPCR Test.
     * Properly interconnected Multi-Page Web Application Design.
@@ -37,7 +37,7 @@ SOLUTION : -
     * Choose a Day (Mon /Tues /Wed / Thurs / Fri / Sat) to view available seats.
     * Implemented a dynamically changing presentable format for the EMPTY, SELECTED, NOT SELECTED seats.
     * Hovering feature to select a seat.
-    * Different colors to show empty, selected, not selected seats.
+    * Different colors to show empty, selected, and not selected seats.
     
     <br>
     
